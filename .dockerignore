@@ -27,6 +27,6 @@ tmp
 CONTRIBUTING.md
 LICENSE
 README.md
-docker_installation.sh
+install_docker.sh
 ROADMAP.md
 COMMANDS.md
